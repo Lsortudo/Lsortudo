@@ -8,7 +8,7 @@
 
 ✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
 
-🖊️ Codepen: [Leozinho] (https://codepen.io/leozinhozddev) 🖊️
+🖊️ Codepen: [Leozinho](https://codepen.io/leozinhozddev) 🖊️
 
 ---
 
@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 --- Socials
-![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) [Codepen] (https://codepen.io/leozinhozddev) ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
+![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) [Codepen](https://codepen.io/leozinhozddev) ![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
 
 
 
