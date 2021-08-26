@@ -2,22 +2,28 @@
 
 ✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeitinho. ✨
 
+---
+
 📚 Cursando último periodo de Análise e Desenvolvimento de Sistemas 📚
 
----
-- a
+✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
+
+🖊️ Codepen: [Leozinho] (https://codepen.io/leozinhozddev) 🖊️
 
 ---
 
-- a
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
-
-
-
+--- Socials
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) (https://codepen.io/leozinhozddev)
 
 
 
