@@ -8,7 +8,7 @@
 
 ✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
 
-🖊️ Codepen: [Leozinho](https://codepen.io/leozinhozddev) 🖊️
+<!-- 🖊️ Codepen: [Leozinho](https://codepen.io/leozinhozddev) 🖊️-->
 
 ---
 
@@ -21,7 +21,10 @@
 ![](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+--- Socials
 
+<a href="https://codepen.io/leozinhozddev" target="_blank"> <img src="(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+">
 
 <!--
 **Lsortudo/Lsortudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
