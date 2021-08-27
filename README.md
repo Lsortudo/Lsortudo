@@ -1,8 +1,11 @@
+<img height="150em" align="left" alt="killua-hi" src="https://tenor.com/view/hunter-x-hunter-killua-happy-cheerful-gif-16412621.gif">
 ### Yoyoyo
-
+<br/><br/>
 ✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeitinho. ✨
+<br/><br/>
 
 ---
+
 
 📚 Cursando último periodo de Análise e Desenvolvimento de Sistemas 📚
 
@@ -25,8 +28,30 @@
 
 <div>
   <a href="https://codepen.io/leozinhozddev" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/lsortudo" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leozinhozd/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+---
+
+
+<div>
+  <a href="https://github.com/lsortudo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsortudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsortudo&layout=compact&langs_count=6&theme=dark">
+  <a/>
+</div>
+
+  <img height="150em" align="right" alt="killua-bye" src="https://tenor.com/view/killua-gopackgo-gif-18443164.gif">
+  <br/><br/>
+Atualmente migrando os estudos de WEB (HTML | CSS | JS / Vue.js) para Mobile (Kotlin) e adorando os resultados.
+Próximos estudos em Kotlin: Jettpack Compose > Material Design > JUnit & Mockito | ST: 25/08/2021
+  
+  
+  
+  
+  
+  
 <!--
 **Lsortudo/Lsortudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
