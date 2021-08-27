@@ -45,6 +45,7 @@
   <img height="150em" align="right" alt="killua-bye" src="https://tenor.com/view/killua-gopackgo-gif-18443164.gif">
   <br/><br/>
 Atualmente migrando os estudos de WEB (HTML | CSS | JS / Vue.js) para Mobile (Kotlin).
+
 Próximos estudos em Kotlin: Jettpack Compose > Material Design > JUnit & Mockito | ST: 25/08/2021
   
   
