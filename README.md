@@ -7,7 +7,7 @@ Yoyoyo
 ---
 
 
-📚 Cursando último periodo de Análise e Desenvolvimento de Sistemas 📚
+📚 Formado em Análise e Desenvolvimento de Sistemas | 2018-2021 |📚
 
 ✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
 
