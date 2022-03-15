@@ -1,5 +1,5 @@
 <br/><br/>
-✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeitinho. ✨
+✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeito e com modificações. ✨
 <br/><br/>
 
 ---
