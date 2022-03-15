@@ -1,5 +1,3 @@
-<img height="150em" align="left" alt="killua-hi" src="https://tenor.com/view/hunter-x-hunter-killua-happy-cheerful-gif-16412621.gif">
-Yoyoyo
 <br/><br/>
 ✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeitinho. ✨
 <br/><br/>
@@ -42,7 +40,7 @@ Yoyoyo
   <a/>
 </div>
 
-  <img height="150em" align="right" alt="killua-bye" src="https://tenor.com/view/killua-gopackgo-gif-18443164.gif">
+ 
   <br/><br/>
 Atualmente migrando os estudos de WEB (HTML | CSS | JS / Vue.js) para Mobile (Kotlin).
 
