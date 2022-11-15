@@ -1,11 +1,11 @@
 <br/><br/>
-✨ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeito e com modificações. ✨
+ Meu nome é Leonardo e esse ambiente é basicamente o lugar de despejo de todos os projetos sejam ideias pessoais ou tentativas de recriar coisas existentes porém do meu jeito e com modificações. 
 <br/><br/>
 
 ---
 
 
-📚 Formado em Análise e Desenvolvimento de Sistemas | 2018-2021 |📚
+📚 Formado em Análise e Desenvolvimento de Sistemas | 2018-2022 |📚
 
 ✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
 
@@ -41,9 +41,9 @@
 
  
   <br/><br/>
-Atualmente migrando os estudos de WEB (HTML | CSS | JS / Vue.js) para Mobile (Kotlin).
+Atualmente desenvolvendo projetos pessoais com Kotlin utilizando Android SDK e bibliotecas mais usadas como Retrofit, Moshi, Recyclerview, Room, ViewBinding, LiveData, Navigation, Fragments ( Jetpack main libs )
 
-Próximos estudos em Kotlin: Jettpack Compose > Material Design > JUnit & Mockito | ST: 25/08/2021
+Próximos estudos em Kotlin: Jettpack Compose > JUnit & Mockito
   
   
   
