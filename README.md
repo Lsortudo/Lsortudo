@@ -39,7 +39,7 @@
   <br/><br/>
 Atualmente desenvolvendo projetos pessoais com Kotlin utilizando Android SDK e bibliotecas mais usadas como Retrofit, Moshi, Recyclerview, Room, ViewBinding, LiveData, Navigation, Fragments ( Jetpack main libs )
 
-Próximos estudos em Kotlin: Jettpack Compose > JUnit & Mockito
+Próximos estudos em Kotlin:   { Starting on DECEMBER/22 } MVVM Architecture > Dependency Injection > Jettpack Compose
   
   
   
