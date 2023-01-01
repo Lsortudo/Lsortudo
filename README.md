@@ -4,7 +4,7 @@
 
 📚 Formado em Análise e Desenvolvimento de Sistemas | 2018-2022 |📚
 
-✍ Hobbies: Assistir(), Codificar(), Jogar(), Ler() ✍
+✍ Tenho como hobbies: Codar, assistir series, ler mangas e jogar.✍
 <br/><br/>
 
 <!-- 🖊️ Codepen: [Leozinho](https://codepen.io/leozinhozddev) 🖊️-->
@@ -39,7 +39,8 @@
   <br/><br/>
 Atualmente desenvolvendo projetos pessoais com Kotlin utilizando Android SDK e bibliotecas mais usadas como Retrofit, Moshi, Recyclerview, Room, ViewBinding, LiveData, Navigation, Fragments ( Jetpack main libs )
 
-Próximos estudos em Kotlin:   { Starting on DECEMBER/22 } MVVM Architecture > Dependency Injection > Jettpack Compose
+
+Foco para | **JANEIRO 23** | Dominio em MVVM > Dependency Injection > Compose > Junit/Outros pra testes.
   
   
   
