@@ -31,8 +31,7 @@
 
 <div>
   <a href="https://github.com/lsortudo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsortudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsortudo&layout=compact&langs_count=6&theme=dark">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Lsortudo&theme=omni&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <a/>
 </div>
 
