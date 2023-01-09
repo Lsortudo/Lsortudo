@@ -38,7 +38,8 @@
 
  
   <br/><br/>
-Atualmente desenvolvendo projetos pessoais com Kotlin utilizando Android SDK e bibliotecas mais usadas como Retrofit, Moshi, Recyclerview, Room, ViewBinding, LiveData, Navigation, Fragments ( Jetpack main libs )
+
+Bibliotecas que tenho conhecimento e desenvolvo: Retrofit, Moshi, RecyclerView, ROOM, ViewBinding, DataBinding, LiveData, LifeCycle, Navigation, Fragments, Android SDK
 
 
 Foco para | **JANEIRO 23** | Dominio em MVVM > Dependency Injection > Compose > Junit/Outros pra testes.
