@@ -38,8 +38,18 @@
  
   <br/><br/>
 
-Bibliotecas que tenho conhecimento e desenvolvo: Retrofit, Moshi, RecyclerView, ROOM, ViewBinding, DataBinding, LiveData, LifeCycle, Navigation, Fragments, Android SDK
+Bibliotecas que tenho conhecimento e desenvolvo -> Kotlin | Java | SDK Android | Jetpack() | Firebase() | Retrofit | Fragments | Navigation Components | ROOM | Corutines | LifeCycle | LiveData/Flow
+<br>
+Jetpack { Room, Coroutines, ViewModel, ViewBinding, LiveData, LifeCycle, Material Design }
+<br>
+Firebase { Auth, Firestore, Crashlytics }
 
+<br>
+
+Arquiteturas: MVVM/MVI
+
+
+<br>
 
 Foco para | **JANEIRO 23** | Dominio em MVVM > Dependency Injection > Compose > Junit/Outros pra testes.
   
