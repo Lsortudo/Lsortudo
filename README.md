@@ -51,8 +51,7 @@ Arquiteturas: MVVM/MVI
 
 <br>
 
-Foco para | **JANEIRO 23** | Dominio em MVVM > Dependency Injection > Compose > Junit/Outros pra testes.
-  
+Foco para | **FEVEREIRO 23** | Dependency Injection > Clean Architecture > Junit/Outros pra testes.
   
   
   
