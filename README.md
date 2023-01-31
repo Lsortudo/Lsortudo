@@ -51,7 +51,8 @@ Arquiteturas: MVVM/MVI
 
 <br>
 
-Foco para | **FEVEREIRO 23** | Dependency Injection > Clean Architecture > Junit/Outros pra testes.
+Foco para | **FEVEREIRO 23** | Dependency Injection > Junit/Outros pra testes.
+ Foco para final | **FEVEREIRO 23** | Aplicar para vagas.
   
   
   
